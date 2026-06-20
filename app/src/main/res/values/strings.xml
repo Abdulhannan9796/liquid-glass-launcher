@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Glass Launcher</string>
+    <string name="today_view_title">Today</string>
+    <string name="add_widget">+ Add Widget</string>
+    <string name="search_apps">Search apps</string>
+</resources>
